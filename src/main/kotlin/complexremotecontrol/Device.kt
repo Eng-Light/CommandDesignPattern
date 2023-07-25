@@ -1,0 +1,4 @@
+package complexremotecontrol
+
+interface Device {
+}
